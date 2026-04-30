@@ -1,5 +1,5 @@
 # Digital-Services-Trade-Analysis
-This project analyzes digital service export trends across five countries: Argentina, the United Kingdom, South Africa, Germany and the United States of America between 2016 and 2023. It compares export performance before and after the COVID-19 pandemic, highlighting both the temporary slowdown around 2020 and the recovery that followed. The analysis also contrasts developed and developing economies, showing clear differences in export scale and growth patterns.
+This project analyzes digital service export trends across five countries: Argentina, United Kingdom, South Africa, Germany and United States of America between 2016 and 2023. It compares export performance before and after the COVID-19 pandemic, highlighting both the temporary slowdown around 2020 and the recovery that followed. The analysis also contrasts developed and developing economies, showing clear differences in export scale and growth patterns.
 
 # Findings:
 
@@ -14,4 +14,4 @@ This project analyzes digital service export trends across five countries: Argen
 
 Data obtained from the World Bank and United Nations Conference on Trade and Development (UNCTAD) databases on international trade in services.
 
-https://data360.worldbank.org/en/indicator/UNCTAD_DE_DIG_SERVTRADE_ANN_EXP?view=bar&average=WLD
+https://data360.worldbank.org/en/indicator/UNCTAD_DE_DIG_SERVTRADE_ANN_EXP?view=bar&average=WLD (accessed 30 April 2026)
