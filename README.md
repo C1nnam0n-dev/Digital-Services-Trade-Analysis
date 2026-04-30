@@ -1,5 +1,5 @@
 # Digital-Services-Trade-Analysis
-This project analyzes digital service export trends across five countries: Argentina, United Kingdom, South Africa, Germany and United States of America between 2016 and 2023. 
+This project examines changes in digital services exports from 2016 to 2023 across five countries: Argentina, United Kingdom, South Africa, Germany and United States of America. 
 
 It compares export performance before and after the COVID-19 pandemic, highlighting both the temporary slowdown around 2020 and the recovery that followed.
 
@@ -9,7 +9,8 @@ The analysis also contrasts developed and developing economies, showing clear di
 
 # Findings:
 
-![Global Digital Trade Performance Before and After COVID-19](Global%20Digital%20Trade/Global%20Digital%20Trade%20Performance%20Before%20and%20After%20COVID-19.png)
+<img width="600" height="371" alt="chart" src="https://github.com/user-attachments/assets/9a9aaff3-a9b5-4b79-b8ca-244bf44b7c4a" />
+
 - Digital service exports show a consistent upward trend across all five countries from 2016 to 2023, indicating sustained global growth in   the digital trade sector with the United States of America increasing from 454,033 to 686,773 USD (millions) (+51.26%) and the United       Kingdom rising from 266,980 to 449,132 USD (millions) (+68.24%).
 - A clear slowdown in growth occurs around 2020, aligning with the economic disruption caused by COVID-19.
 - The United States of America remains the dominant exporter throughout the entire period, with export values significantly exceeding those   of all other countries whilst the United Kingdom and Germany form a strong second tier, demonstrating steady growth and relatively high     export values.
