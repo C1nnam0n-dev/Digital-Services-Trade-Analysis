@@ -3,6 +3,8 @@ This project analyzes digital service export trends across five countries: Argen
 
 # Findings:
 
+<img width="600" height="371" alt="chart" src="https://github.com/user-attachments/assets/13f800f5-36e6-4dc6-8109-cca922d63586" />
+
 - Digital service exports show a consistent upward trend across all five countries from 2016 to 2023, indicating sustained global growth in   the digital trade sector with the United States of America increasing from 454,033 to 686,773 USD (millions) (+51.26%) and the United       Kingdom rising from 266,980 to 449,132 USD (millions) (+68.24%).
 - A clear slowdown in growth occurs around 2020, aligning with the economic disruption caused by COVID-19.
 - The United States of America remains the dominant exporter throughout the entire period, with export values significantly exceeding those   of all other countries whilst the United Kingdom and Germany form a strong second tier, demonstrating steady growth and relatively high     export values.
